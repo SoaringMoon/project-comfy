@@ -21,10 +21,11 @@ Each phase refines the previous one — from abstract requirements to tangible, 
 
 ## Project Structure
 
-(Files are constantly renamed by Manus, so they will not match the list below. The titles should however remain the same.)
+(Files are constantly renamed by Manus, so they might not match the list below. The titles should however remain the same.)
 
 | Folder / File | Description |
 |----------------|-------------|
+| Phase 1 Files | Description |
 | `deployment_guide.md` | Full system summary and overarching design document. |
 | `design_requirements.md` | Extracted functional and non-functional requirements. |
 | `android_system_architecture.md` | Hybrid distributed system architecture and subsystem overview. |
@@ -32,6 +33,7 @@ Each phase refines the previous one — from abstract requirements to tangible, 
 | `companion_and_safety_protocols.md` | Ethical, emotional, and physical safety guidelines. |
 | `core_ai_engine.py` | Conceptual high-level cognitive engine code. |
 | `motor_control_system.h` | Low-level firmware interface for motion control. |
+| Phase 2 Files | Description |
 | `mechanical_subsystems.md` | Mechanical engineering specifications (actuators, joints, chassis). |
 | `electrical_subsystems.md` | Schematics and interface details for PMU, MCUs, and CAN bus. |
 | `software_architecture_expanded.md` | Expanded AI and control software documentation. |
@@ -40,7 +42,7 @@ Each phase refines the previous one — from abstract requirements to tangible, 
 
 ---
 
-## 🚧 Current Phase
+## Current Phase
 
 **Phase 2 — Subsystem Specification and Validation** *Completed*
 
