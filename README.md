@@ -48,21 +48,29 @@ Although divided into numbered phases, development is continuous and iterative. 
 | `integration_framework.py` | Python pseudocode for the high-level Cognitive Layer. |
 | `testing_and_verification_results.md` | Quantitative benchmarks and pass/fail criteria for all subsystems. |
 | `phase3_summary_and_readiness.md` | Summary of milestones achieved and confirmation that the project is ready to proceed to Phase 4. |
+| Phase 4 Files | Description |
+| `phase4_hri_plan.md` | Experimental methodology for controlled HRI evaluation and ethical review. |
+| `behavior_model_and_personality_engine.md` | Defines the Mood Model (VAD parameters), adaptive dialogue rules, and emotional feedback routines. |
+| `motion_and_expression_calibration.md` | Procedures for motion blending, gaze synchronization, and comfort distance calibration. |
+| `long_term_learning_and_safety.md` | Safeguards including Behavioral Guardrails, dependency limits, and ethical compliance monitoring. |
+| `interaction_evaluation_results.md` | Template for recording and analyzing quantitative and qualitative HRI results. |
+| `phase4_summary_and_readiness.md` | Summary of achievements and readiness for Phase 5. |
 
 ---
 
 ## Current Phase
 
-**Phase 3 — Prototyping and Integration** *Completed*
+**Phase 4 — Human-Robot Interaction (HRI) Evaluation and Refinement** *Completed*
 
-Project Comfy now includes detailed prototype-ready assets and integration procedures, enabling the construction of a functional demonstrator.  
-The project is prepared to move into **Phase 4: Human-Robot Interaction (HRI) Evaluation and Refinement**, which will focus on behavioral development, emotional modeling, and human interaction testing.
+Project Comfy now includes a complete behavioral and emotional interaction model, ensuring natural, ethical, and safe human–robot companionship.  
+The next phase, **Phase 5: Production and Open Reference Platform**, will consolidate all work into a unified, replicable blueprint suitable for physical construction, research, and open publication.
 
-**Phase 4 Goals**
-1. Develop adaptive personality and mood modeling  
-2. Calibrate motion, gaze, and verbal synchronization  
-3. Conduct comfort and empathy interaction testing  
-4. Implement long-term behavioral safety mechanisms  
+**Phase 5 Goals**
+1. Integrate all prior subsystem documents into a single coherent platform  
+2. Produce complete fabrication and assembly documentation  
+3. Finalize firmware and software packaging for release  
+4. Conduct full safety and compliance validation  
+5. Publish an open reference platform for public and academic use  
 
 ---
 
@@ -84,9 +92,9 @@ The project is prepared to move into **Phase 4: Human-Robot Interaction (HRI) Ev
 | **Phase 1** | Conceptual Design & System Architecture | Complete |
 | **Phase 2** | Subsystem Specification & Validation | Complete |
 | **Phase 3** | Prototyping & Integration | Complete |
-| **Phase 4** | Human-Robot Interaction & Refinement | In Progress |
-| **Phase 5** | Production-Ready Blueprint & Deployment Guide | Planned |
-| **Beyond Phase 5** | Iterative Optimization & Advanced Research | Ongoing |
+| **Phase 4** | Human-Robot Interaction & Refinement | Complete |
+| **Phase 5** | Production-Ready Blueprint & Open Reference Platform | In Progress |
+| **Beyond Phase 5** | Iterative Optimization & Advanced Research | Planned |
 
 ---
 
@@ -96,13 +104,13 @@ Following Phase 5, Project Comfy will continue as an open-ended research effort.
 Subsequent work will focus on refinement, simplification, and optimization across all subsystems.
 
 **Late-Stage Research and Improvement Goals**
-- **Cost Minimization:** Reducing total system cost through simplified assemblies and component substitution.  
-- **Part Reduction:** Consolidating mechanical and electronic components for easier fabrication and repair.  
-- **Capability Enhancement:** Improving dexterity, perception, and energy efficiency while maintaining prior design constraints.  
-- **3D Model Integration:** Translating all blueprint designs into parametric CAD models for inspection, modification, and simulation.  
-- **Scale Optimization:** Evaluating anthropometric trade-offs between different robot heights and mass distributions (e.g., five-foot vs. six-foot designs).  
+- **Design Consolidation:** Reduce complexity and part count without loss of function.  
+- **Manufacturing Accessibility:** Adapt assemblies for small-lab or hobbyist fabrication.  
+- **Capability Enhancement:** Improve dexterity, perception, and energy efficiency within current design limits.  
+- **Digital Twin Development:** Create a complete 3D parametric model for simulation and inspection.  
+- **Scale Optimization:** Evaluate ergonomics, efficiency, and comfort across size variants.  
 
-These areas will form the foundation for ongoing research and community collaboration beyond the original design scope.
+These areas will form the foundation for ongoing research and community collaboration beyond the initial design scope.
 
 ---
 
